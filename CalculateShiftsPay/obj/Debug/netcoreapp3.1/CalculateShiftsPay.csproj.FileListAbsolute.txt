@@ -1,0 +1,4 @@
+C:\Users\nuche\OneDrive\Documents\SP3Exam\CalculateShiftsPay\obj\Debug\netcoreapp3.1\CalculateShiftsPay.csproj.CoreCompileInputs.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\CalculateShiftsPay\obj\Debug\netcoreapp3.1\CalculateShiftsPay.AssemblyInfoInputs.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\CalculateShiftsPay\obj\Debug\netcoreapp3.1\CalculateShiftsPay.AssemblyInfo.cs
+C:\Users\nuche\OneDrive\Documents\SP3Exam\CalculateShiftsPay\bin\Debug\netcoreapp3.1\CalculateShiftsPay.exe
