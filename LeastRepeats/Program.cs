@@ -1,18 +1,33 @@
 ﻿using System;
 using static System.Math;
 using System.Linq;
- namespace hackAJob1
+using System.Collections.Generic;
+
+namespace hackAJob1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Run(new int[] { 80, 9, 4, 4, 4, 4, 6, 4, 80 }));
-
-           
-
+            Console.WriteLine(Run(new int[] { 80, 9, 4, 4, 4, 6, 6, 9 }));
+            Console.WriteLine(Run1(new int[] { 80, 9, 4, 4, 4, 6, 6, 9 }));
 
 
+
+
+        }
+        //Proper solution
+        static public int Run1(int[] student_list)
+        {
+            HashSet<int> set = new HashSet<int>();
+            foreach(int i in student_list)
+            {
+                if (set.Contains(i))
+                    set.Remove(i);
+                else
+                    set.Add(i);
+            }
+            return set.First();
         }
         static public int Run(int[] student_list)
         {
