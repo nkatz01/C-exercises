@@ -1,0 +1,13 @@
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\bin\Debug\netcoreapp3.1\SemiPrime.exe
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\bin\Debug\netcoreapp3.1\SemiPrime.deps.json
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\bin\Debug\netcoreapp3.1\SemiPrime.runtimeconfig.json
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\bin\Debug\netcoreapp3.1\SemiPrime.runtimeconfig.dev.json
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\bin\Debug\netcoreapp3.1\SemiPrime.dll
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\bin\Debug\netcoreapp3.1\SemiPrime.pdb
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\obj\Debug\netcoreapp3.1\SemiPrime.csprojAssemblyReference.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\obj\Debug\netcoreapp3.1\SemiPrime.csproj.CoreCompileInputs.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\obj\Debug\netcoreapp3.1\SemiPrime.AssemblyInfoInputs.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\obj\Debug\netcoreapp3.1\SemiPrime.AssemblyInfo.cs
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\obj\Debug\netcoreapp3.1\SemiPrime.dll
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\obj\Debug\netcoreapp3.1\SemiPrime.pdb
+C:\Users\nuche\OneDrive\Documents\SP3Exam\SemiPrime\obj\Debug\netcoreapp3.1\SemiPrime.genruntimeconfig.cache
