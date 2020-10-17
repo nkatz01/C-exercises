@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "66ZJIbwiMuBJwt11HWfoTdMf0EWzr5B7BH1IS8J2eTNuXwjbZ4ZWqhLnY/JKqF/z/mC5VllEd6Vvf43+1PQBjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\FootballScores\\FootballScores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nuche\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

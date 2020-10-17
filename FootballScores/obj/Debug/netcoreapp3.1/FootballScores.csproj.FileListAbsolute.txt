@@ -1,0 +1,15 @@
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\bin\Debug\netcoreapp3.1\FootballScores.exe
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\obj\Debug\netcoreapp3.1\FootballScores.AssemblyInfoInputs.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\obj\Debug\netcoreapp3.1\FootballScores.AssemblyInfo.cs
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\bin\Debug\netcoreapp3.1\FootballScores.deps.json
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\bin\Debug\netcoreapp3.1\FootballScores.runtimeconfig.json
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\bin\Debug\netcoreapp3.1\FootballScores.runtimeconfig.dev.json
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\bin\Debug\netcoreapp3.1\FootballScores.dll
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\bin\Debug\netcoreapp3.1\FootballScores.pdb
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\obj\Debug\netcoreapp3.1\FootballScores.csprojAssemblyReference.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\obj\Debug\netcoreapp3.1\FootballScores.csproj.CoreCompileInputs.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\obj\Debug\netcoreapp3.1\FootballScores.csproj.CopyComplete
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\obj\Debug\netcoreapp3.1\FootballScores.dll
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\obj\Debug\netcoreapp3.1\FootballScores.pdb
+C:\Users\nuche\OneDrive\Documents\SP3Exam\FootballScores\obj\Debug\netcoreapp3.1\FootballScores.genruntimeconfig.cache
