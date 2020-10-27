@@ -69,7 +69,7 @@ namespace CodeSignal
                return minCommands += 2;
             else if ((y > 0 && direction == 0) || (y < 0 && direction == 2))
                return minCommands += 2;
-            else if ((x == 0 && y > 0 && direction == 2) || (x == 0 && y < 0 && direction == 0) || (y == 0 && (( x > 0 && direction == 3) || (y == 0 && x < 0 && direction == 1)) )    || (x == 0 && y == 0))
+            else if ((x == 0 && (direction == 2 ||  direction == 0)) || (y == 0 && ( direction == 3 ||  direction == 1) )    || (x == 0 && y == 0))
                 return minCommands;
             else
                 return 1; 
