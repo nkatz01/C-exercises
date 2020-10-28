@@ -11,7 +11,7 @@ namespace HackerRank
 
          static void Main(string[] args)
         {
-            //  int[] arr = new int[]{1,2,5,3,7,8,6,4 };//->7
+               int[] arr = new int[]{1,2,5,3,7,8,6,4 };//->7
             // int[] arr = new int[] { 2,1,5,3,4 };//-> 3
             //  int[] arr = new int[] { 2,5,1,3,4}; //-> TC
             // int[] arr = new int[] { 5,1,2,3,7,8,6,4};//-> TC
