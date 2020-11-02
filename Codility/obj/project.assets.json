@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Codility\\MaxVariety.csproj",
-      "projectName": "MaxVariety",
-      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Codility\\MaxVariety.csproj",
+      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\MaxVariety\\Codility.csproj",
+      "projectName": "Codility",
+      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\MaxVariety\\Codility.csproj",
       "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Codility\\obj\\",
+      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\MaxVariety\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

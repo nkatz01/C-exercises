@@ -10,7 +10,7 @@ namespace Codility
        public int Key;
         public int Count;
     }
-    class Program
+    class MaxVariety
     {
         //Problem: Array with arbitrary numbers in it, possibly repeated, has to be divided exactly 50/50. 
         //It needs to be devided in a way that gives one half as much variety, in terms of different numbers, as possible 
