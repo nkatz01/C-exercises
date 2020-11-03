@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuestionOne", "QuestionOne\QuestionOne.csproj", "{79639799-E408-4039-A36A-515914FBB35D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{6078C4F6-AD04-4B0A-99FB-564106228F7A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SemiPrime", "SemiPrime\SemiPrime.csproj", "{7B7F75F7-5870-4E45-B39C-DB345766F81B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxContigSubArrSum", "MaxContigSubArrSum\MaxContigSubArrSum.csproj", "{24271072-E0A2-4410-84D3-C1198867E8B3}"
@@ -43,10 +41,6 @@ Global
 		{79639799-E408-4039-A36A-515914FBB35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79639799-E408-4039-A36A-515914FBB35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79639799-E408-4039-A36A-515914FBB35D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6078C4F6-AD04-4B0A-99FB-564106228F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6078C4F6-AD04-4B0A-99FB-564106228F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6078C4F6-AD04-4B0A-99FB-564106228F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6078C4F6-AD04-4B0A-99FB-564106228F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7B7F75F7-5870-4E45-B39C-DB345766F81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7B7F75F7-5870-4E45-B39C-DB345766F81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B7F75F7-5870-4E45-B39C-DB345766F81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
