@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\MaxVariety\\Codility.csproj": {}
+    "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Codility\\Codility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\MaxVariety\\Codility.csproj": {
+    "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Codility\\Codility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\MaxVariety\\Codility.csproj",
+        "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Codility\\Codility.csproj",
         "projectName": "Codility",
-        "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\MaxVariety\\Codility.csproj",
+        "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Codility\\Codility.csproj",
         "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\MaxVariety\\obj\\",
+        "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Codility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",

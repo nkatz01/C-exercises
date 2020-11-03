@@ -10,20 +10,21 @@ namespace HackerRank
     class MinimumBribe
     {
 
-         static void Main(string[] args)
+        static void Main(string[] args)
         {
-
-              //int[] arr1 = new int[]{1,2,3};//->7
-             // int[] arr2 = new int[] {1,3};//-> 3
-             // int[] arr = new int[]{1,2,5,3,7,8,6,4 };//->7
-           //  int[] arr = new int[] { 2,1,5,3,4 };//-> 3
+             int[] arr = new int[] { 1,7,2,3,4,5,6 };//->7
+            //  int[] arr = new int[]{1,2,5,3,7,8,6,4 };//->7
+            //   int[] arr = new int[] { 2,1,5,3,4 };//-> 3
             //  int[] arr = new int[] { 2,5,1,3,4}; //-> TC
             // int[] arr = new int[] { 5,1,2,3,7,8,6,4};//-> TC
-              int[] arr = new int[] {1,2,5,3,7,6,8,4};//-> 6
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        //->956
+            //  int[] arr = new int[] { 1, 2, 5, 3, 7, 6, 8, 4 };//-> 6
+            
 
-                minimumBribes(arr);
+            minimumBribes(arr);
         }
+
+
+
 
         static void minimumBribes(int[] q)
         {
@@ -80,8 +81,44 @@ namespace HackerRank
 
         }
 
+
+
+        //Only half baked solution
+        //static void minimumBribes(int[] q)
+        //{
+        //    var changesOfTwo = 0;
+        //    var changesOfOne = 0;
+        //    var count = 0;
+        //    int rem = 0;
+        //    // differences.ToList().ForEach(i => Console.Write(i + " "));
+
+        //    var qOrdered = q.OrderBy(i => i);
+        //    var differences = q.Zip(qOrdered, (first, second) => Math.Abs(first - second));
+        //    foreach (var el in differences)
+        //    {
+
+        //        rem = el % 2;
+
+        //        if (rem == 1)
+        //        {
+        //            changesOfTwo += el / 2;
+        //            changesOfOne++;
+        //        }
+        //        else
+
+        //            changesOfTwo += el / 2;
+
+
+        //    }
+
+        //    count =  (changesOfOne/2  )  + (changesOfTwo + changesOfOne);
+
+        //    Console.WriteLine(count);
+
+        //}
+
     }
+}
 
 
 
- 

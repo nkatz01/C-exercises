@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\CodeSignal\\CodeSignal.csproj",
+      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\CodeSignal\\CodeSignal.csproj",
       "projectName": "CodeSignal",
-      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\CodeSignal\\CodeSignal.csproj",
+      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\CodeSignal\\CodeSignal.csproj",
       "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\Csharp-exercises\\CodeSignal\\obj\\",
+      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\CodeSignal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",

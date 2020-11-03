@@ -17,3 +17,16 @@ C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\MaxVariety\obj\Debug\
 C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\MaxVariety\obj\Debug\netcoreapp3.1\Codility.csproj.CoreCompileInputs.cache
 C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\MaxVariety\obj\Debug\netcoreapp3.1\Codility.dll
 C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\MaxVariety\obj\Debug\netcoreapp3.1\Codility.pdb
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\bin\Debug\netcoreapp3.1\Codility.exe
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\bin\Debug\netcoreapp3.1\Codility.deps.json
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\bin\Debug\netcoreapp3.1\Codility.runtimeconfig.json
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\bin\Debug\netcoreapp3.1\Codility.runtimeconfig.dev.json
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\bin\Debug\netcoreapp3.1\Codility.dll
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\bin\Debug\netcoreapp3.1\Codility.pdb
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\obj\Debug\netcoreapp3.1\Codility.csprojAssemblyReference.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\obj\Debug\netcoreapp3.1\Codility.AssemblyInfoInputs.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\obj\Debug\netcoreapp3.1\Codility.AssemblyInfo.cs
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\obj\Debug\netcoreapp3.1\Codility.csproj.CoreCompileInputs.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\obj\Debug\netcoreapp3.1\Codility.dll
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\obj\Debug\netcoreapp3.1\Codility.pdb
+C:\Users\nuche\OneDrive\Documents\SP3Exam\Csharp-exercises\Codility\obj\Debug\netcoreapp3.1\Codility.genruntimeconfig.cache

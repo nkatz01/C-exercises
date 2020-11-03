@@ -10,3 +10,4 @@ C:\Users\nuche\OneDrive\Documents\SP3Exam\RomanNumbers\bin\Debug\netcoreapp3.1\R
 C:\Users\nuche\OneDrive\Documents\SP3Exam\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.dll
 C:\Users\nuche\OneDrive\Documents\SP3Exam\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.pdb
 C:\Users\nuche\OneDrive\Documents\SP3Exam\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.genruntimeconfig.cache
+C:\Users\nuche\OneDrive\Documents\SP3Exam\RomanNumbers\obj\Debug\netcoreapp3.1\RomanNumbers.csprojAssemblyReference.cache

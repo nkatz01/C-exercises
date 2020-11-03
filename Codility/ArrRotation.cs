@@ -9,8 +9,10 @@ namespace Codility
     {
 
         public static int[] Solution(int[] A, int K)
-        { 
-            for(var j =0; j<K; j++) {
+        {
+            if (A.Count() == 0)
+                return A;
+            for (var j =0; j<K; j++) {
                 var pivot = A[A.Length-1];
                 var i = A.Length - 1;
                 while (i >0 ) 
@@ -22,7 +24,7 @@ namespace Codility
                  
               
                  
-                Console.WriteLine();
+            
                 
                 A[0] = pivot;
 

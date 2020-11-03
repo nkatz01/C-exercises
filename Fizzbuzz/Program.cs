@@ -8,21 +8,28 @@ namespace Fizzbuzz
         static void Main(string[] args)
         {
             Console.WriteLine(Run(1,5));
+          fizzBuzz(15);
         }
 
-        static public string Run(int N, int M)
+        static public string Run(int N, int M)//Does it for specified range
         {
-            //
-            // Write your code below; return type and arguments should be according to the problem's requirements
-            //
+           
             var range = Enumerable.Range(N, (M - N )+1);
             var strs = range.Select(i => i % 3 == 0 && i % 5 == 0 ? "FizzBuzz" : (i % 3 == 0 ? "Fizz" : (i % 5 == 0 ? "Buzz"  : i.ToString()) )).ToList();
            string sequence = string.Join("," ,strs);
             
-          
-
             
             return sequence;
+        }
+
+        public static void fizzBuzz(int n)
+        {
+            var range = Enumerable.Range(1, n);//Does it from 1 upto n
+            var strs = range.Select(i => i % 3 == 0 && i % 5 == 0 ? "FizzBuzz" : (i % 3 == 0 ? "Fizz" : (i % 5 == 0 ? "Buzz" : i.ToString()))).ToList();
+
+            strs.ToList().ForEach(i => Console.WriteLine(i));
+
+
         }
     }
 }
