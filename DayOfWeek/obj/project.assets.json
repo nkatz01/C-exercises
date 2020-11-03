@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\DayOfWeek\\DayOfWeek.csproj",
+      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\DayOfWeek\\DayOfWeek.csproj",
       "projectName": "DayOfWeek",
-      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\DayOfWeek\\DayOfWeek.csproj",
+      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\DayOfWeek\\DayOfWeek.csproj",
       "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\DayOfWeek\\obj\\",
+      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\DayOfWeek\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",

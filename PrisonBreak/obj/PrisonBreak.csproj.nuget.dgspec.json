@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\PrisonBreak\\PrisonBreak.csproj": {}
+    "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\PrisonBreak\\PrisonBreak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\PrisonBreak\\PrisonBreak.csproj": {
+    "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\PrisonBreak\\PrisonBreak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\PrisonBreak\\PrisonBreak.csproj",
+        "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\PrisonBreak\\PrisonBreak.csproj",
         "projectName": "PrisonBreak",
-        "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\PrisonBreak\\PrisonBreak.csproj",
+        "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\PrisonBreak\\PrisonBreak.csproj",
         "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\PrisonBreak\\obj\\",
+        "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\PrisonBreak\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",

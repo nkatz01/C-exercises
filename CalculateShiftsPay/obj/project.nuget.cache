@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQCgqgwwAW4HPLvR6BXN6RsZgsFdAq1wHjT1RynWu9T60bPITJDv+ETCriJPUb2Fgg1a4vhFv+2nZppXUPT5jw==",
+  "dgSpecHash": "HZW96qCUpPGPy9m+FnZYPnt9ei/I3cHIwE4TQlXR1Wgi+SOh6ejLMiEx9uqQMMJlSv69q5AoYpdKcO6Dmt52iA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\CalculateShiftsPay\\CalculateShiftsPay.csproj",
+  "projectFilePath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\CalculateShiftsPay\\CalculateShiftsPay.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nuche\\.nuget\\packages\\languageext.core\\3.4.15\\languageext.core.3.4.15.nupkg.sha512",
     "C:\\Users\\nuche\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

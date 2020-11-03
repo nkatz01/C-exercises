@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\CalculateShiftsPay\\CalculateShiftsPay.csproj": {}
+    "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\CalculateShiftsPay\\CalculateShiftsPay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\CalculateShiftsPay\\CalculateShiftsPay.csproj": {
+    "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\CalculateShiftsPay\\CalculateShiftsPay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\CalculateShiftsPay\\CalculateShiftsPay.csproj",
+        "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\CalculateShiftsPay\\CalculateShiftsPay.csproj",
         "projectName": "CalculateShiftsPay",
-        "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\CalculateShiftsPay\\CalculateShiftsPay.csproj",
+        "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\CalculateShiftsPay\\CalculateShiftsPay.csproj",
         "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\CalculateShiftsPay\\obj\\",
+        "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\CalculateShiftsPay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",

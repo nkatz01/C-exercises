@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\RomanNumbers\\RomanNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\RomanNumbers\\RomanNumbers.csproj",
       "projectName": "RomanNumbers",
-      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\RomanNumbers\\RomanNumbers.csproj",
+      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\RomanNumbers\\RomanNumbers.csproj",
       "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\RomanNumbers\\obj\\",
+      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\RomanNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",

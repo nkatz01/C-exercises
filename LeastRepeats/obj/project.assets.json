@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\LeastRepeats\\LeastRepeats.csproj",
+      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\LeastRepeats\\LeastRepeats.csproj",
       "projectName": "LeastRepeats",
-      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\LeastRepeats\\LeastRepeats.csproj",
+      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\LeastRepeats\\LeastRepeats.csproj",
       "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\LeastRepeats\\obj\\",
+      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\LeastRepeats\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",

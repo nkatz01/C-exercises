@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\MaxContigSubArrSum\\MaxContigSubArrSum.csproj",
+      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\MaxContigSubArrSum\\MaxContigSubArrSum.csproj",
       "projectName": "MaxContigSubArrSum",
-      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\MaxContigSubArrSum\\MaxContigSubArrSum.csproj",
+      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\MaxContigSubArrSum\\MaxContigSubArrSum.csproj",
       "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\MaxContigSubArrSum\\obj\\",
+      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\MaxContigSubArrSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",

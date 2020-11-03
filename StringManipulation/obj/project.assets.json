@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\StringManipulation\\StringManipulation.csproj",
+      "projectUniqueName": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\StringManipulation\\StringManipulation.csproj",
       "projectName": "StringManipulation",
-      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\StringManipulation\\StringManipulation.csproj",
+      "projectPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\StringManipulation\\StringManipulation.csproj",
       "packagesPath": "C:\\Users\\nuche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\SP3Exam\\StringManipulation\\obj\\",
+      "outputPath": "C:\\Users\\nuche\\OneDrive\\Documents\\Csharp-exercises\\StringManipulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuche\\AppData\\Roaming\\NuGet\\NuGet.Config",
