@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HackerRank.Hourglass</StartupObject>
+    <StartupObject>HackerRank.FrogRiverOne</StartupObject>
   </PropertyGroup>
 
 </Project>
