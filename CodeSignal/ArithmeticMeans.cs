@@ -37,33 +37,32 @@ namespace CodeSignal
 
         static int[] diagonalsArranging(string[,] a)
         {
-            var rowFrom = a.GetLength(0) - 1;
-            int diagonals = (a.GetLength(0) * 2) - 1;
-            Dictionary<int, string> concatenatedStrs = new Dictionary<int, string>();
-            Console.WriteLine(concatenatedStrs.Count());
-            for (int r = a.GetLength(0) - 1; r >= 0; r--)
+            int diagonals = (a.GetLength(0) * 2) - 1;//GetLength(0) gets the length of rows (GetLength(1) the length of columns and so on for each dimension)
+            Dictionary<int, string> concatenatedStrs = new Dictionary<int, string>();//we're using a dictionary where the index of each diagonal is the key
+
+            for (int r = a.GetLength(0) - 1; r >= 0; r--)//starts off with row equaling to bottom left corner, decreasing row (until row = 0) after every inner traversal of columns (to the right)
             {
 
                 string concat = "";
                 int row = r;
-                for (int c = 0; c < a.GetLength(0) - r; c++)
+                for (int c = 0; c < a.GetLength(0) - r; c++)//number of columns to traverse to the right gets ever so more  as we decrease row (or is proportional to row reduction)
                 {
 
                     concat += a[row, c];
                     row++;
                 }
-                concatenatedStrs.Add((a.GetLength(0) * 2) - diagonals, concat);
+                concatenatedStrs.Add((a.GetLength(0) * 2) - diagonals, concat);//the first index should be 1; not 0. Since we're not on row 1 (nor col 1) we have to do this trick)
                 diagonals--;
 
 
             }
 
-            for (int c = 1; c < a.GetLength(1); c++)
+            for (int c = 1; c < a.GetLength(1); c++)//now we do the second half diagonals (top right corner)
             {
 
                 string concat = "";
                 int col = c;
-                for (int r = 0; r < a.GetLength(0) - c; r++)
+                for (int r = 0; r < a.GetLength(0) - c; r++)//number of rows left to traverse to the right gets ever so diminished as we increase col number (or is proportional to column increase)
 
                 {
 
@@ -76,13 +75,12 @@ namespace CodeSignal
 
             }
 
-            foreach (var s in concatenatedStrs)
-                Console.WriteLine(s.ToString());
 
 
-            var ordered = concatenatedStrs.OrderBy(i => i.Value);
 
-            return ordered.Select(i => i.Key).ToArray();
+            var ordered = concatenatedStrs.OrderBy(i => i.Value);//re-order
+
+            return ordered.Select(i => i.Key).ToArray();//a map function to extract keys only from dictionary and transform to array which is the returned value
         }
 
 

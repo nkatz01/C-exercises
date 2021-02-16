@@ -18,12 +18,12 @@ namespace Codility
         {
             HashSet<int> hashSet = new HashSet<int>();
             foreach (var e in A)
-                hashSet.Add(e);
+                hashSet.Add(e);//deals with duplicates
 
             if (hashSet.Count() < A.Count())
                 return 0; 
 
-           return A.Except(Enumerable.Range(1, A.Length)).Count()==0 ? 1 : 0; 
+           return A.Except(Enumerable.Range(1, A.Length)).Count()==0 ? 1 : 0; //deals with omissions
         }
     }
 }
